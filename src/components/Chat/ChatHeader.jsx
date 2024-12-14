@@ -18,7 +18,7 @@ export default function ChatHeader() {
         <Avatar size="32" userPic={recieverPic} status="online" />
         <div className="flex flex-col">
           <h2 className="text-[14px] font-bold leading-5 text-white">
-            Esther Howard
+            Me
           </h2>
           <p className="text-secondary text-xs font-medium leading-4">
             Available on mobile

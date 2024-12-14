@@ -22,9 +22,10 @@ export default {
         chat: "#1E1A23",
         avatar: "#F3C48E",
         "avatar-read": "#D8C3F3",
-        "send-btn": "#9747FF",
-        line: "#FFFFFF1F",
-        input: "#B8B8B8",
+        input: {
+          400: "#FFFFFF2F",
+          500: "#FFFFFF1F",
+        },
         online: "#69C38B",
       },
     },
