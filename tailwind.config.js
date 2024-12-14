@@ -28,6 +28,9 @@ export default {
         },
         online: "#69C38B",
       },
+      boxShadow: {
+        outer: "0px 0px 15px 0px",
+      },
     },
   },
   plugins: ["prettier-plugin-tailwindcss"],

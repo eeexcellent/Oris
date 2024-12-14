@@ -3,7 +3,7 @@ import senderPic from "./assets/senderPic.png";
 
 export const messages = [
   {
-    id: "3236533236",
+    id: "3236533200",
     senderId: "7",
     senderName: "You",
     senderAvatar: senderPic,
@@ -12,7 +12,7 @@ export const messages = [
     text: "Добрий день! Дякуємо за ваше резюме, ми дуже зацікавлені в вашій кандидатурі.",
   },
   {
-    id: "3236533236",
+    id: "3236533201",
     senderId: "7",
     senderName: "You",
     senderAvatar: senderPic,
@@ -21,7 +21,7 @@ export const messages = [
     text: "Ми переглянули ваші навички та досвід і вважаємо, що ви могли б чудово вписатися в нашу команду.",
   },
   {
-    id: "3236533236",
+    id: "3236533202",
     senderId: "7",
     senderName: "You",
     senderAvatar: senderPic,
@@ -30,7 +30,7 @@ export const messages = [
     text: "Хотіли б запросити вас на співбесіду, щоб детальніше обговорити вашу кандидатуру.",
   },
   {
-    id: "3236533236",
+    id: "3236533203",
     senderId: "7",
     senderName: "You",
     senderAvatar: senderPic,
@@ -39,7 +39,7 @@ export const messages = [
     text: "Чи зручно вам провести співбесіду завтра о 10:00 онлайн?",
   },
   {
-    id: "3236533235",
+    id: "3236533204",
     senderId: "4",
     senderName: "Me",
     senderAvatar: recieverPic,
@@ -48,7 +48,7 @@ export const messages = [
     text: "Добрий день! Дякую за вашу зацікавленість.",
   },
   {
-    id: "3236533235",
+    id: "3236533205",
     senderId: "4",
     senderName: "Me",
     senderAvatar: recieverPic,
@@ -57,7 +57,7 @@ export const messages = [
     text: "Завтра о 10:00 цілком підходить, я готовий до співбесіди.",
   },
   {
-    id: "3236533235",
+    id: "3236533206",
     senderId: "4",
     senderName: "Me",
     senderAvatar: recieverPic,
@@ -66,7 +66,7 @@ export const messages = [
     text: "Як буде проходити співбесіда? Що мені підготувати?",
   },
   {
-    id: "3236533236",
+    id: "3236533207",
     senderId: "7",
     senderName: "You",
     senderAvatar: senderPic,
@@ -75,7 +75,7 @@ export const messages = [
     text: "Співбесіда проходитиме через Zoom. Я надішлю вам посилання за кілька хвилин до початку.",
   },
   {
-    id: "3236533236",
+    id: "3236533208",
     senderId: "7",
     senderName: "You",
     senderAvatar: senderPic,
@@ -84,7 +84,7 @@ export const messages = [
     text: "Основне, що ми хочемо обговорити — це ваш досвід, ваші навички в програмуванні та те, як ви працюєте в команді.",
   },
   {
-    id: "3236533236",
+    id: "3236533209",
     senderId: "7",
     senderName: "You",
     senderAvatar: senderPic,
@@ -93,7 +93,7 @@ export const messages = [
     text: "Також підготуйте кілька прикладів вашої роботи, якщо можливо.",
   },
   {
-    id: "3236533235",
+    id: "3236533210",
     senderId: "4",
     senderName: "Me",
     senderAvatar: recieverPic,
@@ -102,7 +102,7 @@ export const messages = [
     text: "Зрозуміло, дякую за уточнення!",
   },
   {
-    id: "3236533235",
+    id: "3236533211",
     senderId: "4",
     senderName: "Me",
     senderAvatar: recieverPic,
@@ -111,7 +111,7 @@ export const messages = [
     text: "Я вже підготував кілька проектів, які могли б бути цікавими для обговорення.",
   },
   {
-    id: "3236533236",
+    id: "3236533212",
     senderId: "7",
     senderName: "You",
     senderAvatar: senderPic,
@@ -120,7 +120,7 @@ export const messages = [
     text: "Чудово! Тоді до зустрічі завтра о 10:00.",
   },
   {
-    id: "3236533236",
+    id: "3236533213",
     senderId: "7",
     senderName: "You",
     senderAvatar: senderPic,
@@ -129,7 +129,7 @@ export const messages = [
     text: "Якщо у вас будуть будь-які питання, не соромтеся звертатися.",
   },
   {
-    id: "3236533235",
+    id: "3236533214",
     senderId: "4",
     senderName: "Me",
     senderAvatar: recieverPic,
@@ -138,7 +138,7 @@ export const messages = [
     text: "До зустрічі!",
   },
   {
-    id: "3236533235",
+    id: "3236533215",
     senderId: "4",
     senderName: "Me",
     senderAvatar: recieverPic,
