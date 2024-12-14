@@ -1,9 +1,31 @@
+import { useState } from "react";
 import sendIcon from "../../assets/sendIcon.svg";
 
 export default function ChatInput() {
+  const [isInputActive, setIsInputActive] = useState(false);
+
+  function handleInputFocus() {
+    setIsInputActive(true);
+  }
+
+  function handleInputBlur() {
+    setIsInputActive(false);
+  }
+
+  let borderColorClass = "border-secondary";
+
+  if (isInputActive) {
+    borderColorClass = "border-purple-600";
+  }
+
   return (
-    <div id="chat-input" className="flex h-14 gap-2 p-2">
+    <div
+      id="chat-input"
+      className={`flex h-14 gap-2 border-t-2 ${borderColorClass} p-2 transition-colors duration-300 ease-in-out`}
+    >
       <input
+        onFocus={handleInputFocus}
+        onBlur={handleInputBlur}
         className="bg-input-500 focus:bg-input-400 hover:bg-input-400 grow rounded-md px-3 py-[10px] text-sm text-white outline-none transition-colors duration-300 ease-in-out"
         type="text"
         placeholder="Write your message..."

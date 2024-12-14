@@ -38,7 +38,7 @@ export default function ChatMain() {
   return (
     <div
       id="chat-main"
-      className="custom-scrollbar h-96 overflow-y-auto border-b-2 border-purple-600 px-2 pt-4"
+      className="custom-scrollbar h-96 overflow-y-auto px-2 pt-4"
     >
       {messageGroups.map((messageGroup, index) => (
         <MessageList
