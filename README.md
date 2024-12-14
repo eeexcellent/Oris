@@ -1,8 +1,5 @@
-# React + Vite
+# Oris
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Oris is a real-time chat application I created to allow users to easily get in touch with me through my resume website. It provides a simple way for visitors to ask questions or start a conversation, making it easier for potential employers or collaborators to reach out.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The name Oris comes from the Latin word "oratio," meaning "speech" or "conversation," reflecting its purpose of facilitating communication.
