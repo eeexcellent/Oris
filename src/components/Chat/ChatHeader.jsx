@@ -17,9 +17,7 @@ export default function ChatHeader() {
       <div className="flex items-center gap-4">
         <Avatar size="32" userPic={recieverPic} status="online" />
         <div className="flex flex-col">
-          <h2 className="text-[14px] font-bold leading-5 text-white">
-            Me
-          </h2>
+          <h2 className="text-[14px] font-bold leading-5 text-white">Me</h2>
           <p className="text-secondary text-xs font-medium leading-4">
             Available on mobile
           </p>
